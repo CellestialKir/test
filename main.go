@@ -18,4 +18,5 @@ func main() {
 	// Выведите данные в консоль в следующем формале
 	// "Имя: <имя>. Вес: <вес>. Рост <рост>. Ваш BMI: <bmi>"
 	fmt.Printf("Имя: %s. Вес: %f. Рост %f. Ваш BMI: %f", name, weight, height, BMI)
+	fmt.Printf("frejughwrjigoreghwuoghoighwqog")
 }
